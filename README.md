@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# Quick Demo
+### Home Page
+
+=======
 # Demo
 ### Home
 ![Home1](https://github.com/XingchengH/Inline-schedule/assets/74392088/7fe85ada-172d-4c60-abdc-7e96f5038f79)
@@ -13,6 +18,7 @@
 ### User1 Page 
 
 ![User1](https://github.com/XingchengH/Inline-schedule/assets/74392088/01486da6-189b-4ca8-9e53-7a4258de13cf)
+>>>>>>> cfde953f08b8307c5214a011d825c9ce304d01b3
 
 
 
