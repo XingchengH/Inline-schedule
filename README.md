@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+**Access here:** https://inline-schedule.vercel.app/
 # Quick Demo
 ### Home Page
 
